@@ -10,3 +10,5 @@ Technologies used:-
 
 3) JavaScript
 
+Pardon me as i this is my first time dealing with api's and stuff. 
+
