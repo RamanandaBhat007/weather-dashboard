@@ -28,6 +28,6 @@ Pardon me as i this is my first time dealing with api's and stuff.
 
 corrections are welcome. 
 
-Thank yo.
+Thank you.
 
 
